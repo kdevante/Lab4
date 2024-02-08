@@ -8,7 +8,7 @@
 |      Name      |
 |----------------|
 | Kwizera Dvante |
-| Kamsi I        |
+| Kamsi Iwuchukwu|
 
 ## Screenshots
 
